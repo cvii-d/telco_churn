@@ -41,7 +41,7 @@ Dashboard in [Tableau](https://public.tableau.com/app/profile/tsveti.dichevska/v
 
 Correlation of features used by the customers. In this heatmap, we can find the following insights: 
 
-![my_plot.png](attachment:fa70632a-0d74-44fd-8061-d90fcb80a503:my_plot.png)
+![my_plot.png](https://github.com/cvii-d/telco_churn/blob/main/my_plot.png)
 
 ### Churn Correlations
 
